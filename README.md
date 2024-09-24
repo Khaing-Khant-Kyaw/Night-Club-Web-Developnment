@@ -96,7 +96,7 @@ The Club Event Promotion Web App was developed to help manage club events, inclu
 
 ## Admin Welcome
 
-![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Mobile%20View/Artist%20Detail.png)
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Mobile%20View/Welcome%20Admin.png)
 
 ## Create Artist
 
