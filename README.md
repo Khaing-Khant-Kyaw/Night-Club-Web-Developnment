@@ -29,49 +29,90 @@ The Club Event Promotion Web App was developed to help manage club events, inclu
 
 # Site Map
 
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Site%20Map.png)
+
 # Use Case Diagram
+
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Use%20Case%20Diagram.png)
 
 # Desktop View
 ## Register
 
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Desktop/Register.png)
+
 ## Home Page View
+
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Desktop/Home%20Page%20View%20(%20Desktop%20).png)
 
 ## Event List ( Upcoming List )
 
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Desktop/Event%20List%20Upcoming%20(%20Desktop%20).png)
+
 ## Event View ( Previous List )
+
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Desktop/Event%20List%20Previous%20(%20Desktop%20).png)
 
 ## Artist Details
 
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Desktop/Artist%20Detail%20(%20Desktop%20).png)
+
 ## Admin Welcome
+
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Desktop/Admin%20Welcome%20(%20Desktop%20).png)
 
 ## Create Artist
 
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Desktop/Create%20Artist%20(%20Desktop%20).png)
+
 ## Create Event
+
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Desktop/Create%20Event%20(%20Desktop%20).png)
 
 ## Edit Event & Artist
 
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Desktop/Edit%20Event%20%26%20Artist%20(%20Desktop%20).png)
+
 ## Edit Event & Artist-2
+
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Desktop/Edit%20Event%20%26%20Artist-2%20(%20Desktop%20).png)
 
 # Mobile View
-## Register
 
 ## Home Page View
 
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Mobile%20View/Home%20Page.png)
+
 ## Event List ( Upcoming List )
+
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Mobile%20View/Event%20List%20Upcoming.png)
 
 ## Event View ( Previous List )
 
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Mobile%20View/Event%20List%20Previous.png)
+
 ## Artist Details
+
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Mobile%20View/Artist%20Detail.png)
 
 ## Admin Welcome
 
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Mobile%20View/Artist%20Detail.png)
+
 ## Create Artist
+
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Mobile%20View/Create%20Artist.png)
 
 ## Create Event
 
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Mobile%20View/Create%20Event.png)
+
 ## Edit Event & Artist
 
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Mobile%20View/Edit%20Event%20%26%20Artist.png)
+
 ## Edit Event & Artist-2
+
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/blob/main/Photos/Mobile%20View/Edit%20Event%20%26%20Artist-2.png)
 
 
 
