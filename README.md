@@ -25,6 +25,8 @@ The Club Event Promotion Web App was developed to help manage club events, inclu
 
 # Activity Diagram
 
+![Activity Diagram](https://github.com/Khaing-Khant-Kyaw/Night-Club-Web-Developnment/raw/main/Photos/Activity%20Diagram.png)
+
 # Site Map
 
 # Use Case Diagram
