@@ -54,7 +54,7 @@ $database = 'night_club_db';
 
 -login_artist.sql:
 
-  -Creates the artist table to store artist information such as name, biography, band name, social media links,      and profile images.
+  -Creates the artist table to store artist information such as name, biography, band name, social media links,         and profile images.
   -Inserts sample data for artists and their social media profiles.
 
 # Features
@@ -185,19 +185,19 @@ CREATE DATABASE night_club_db;
 ## Step 2: Import SQL Files
 
 -Import the SQL files in the following order to set up the tables and insert sample data:
-
+```SQL
 mysql -u username -p night_club_db < sql/login_login.sql
 mysql -u username -p night_club_db < sql/login_artist.sql
 mysql -u username -p night_club_db < sql/login_event.sql
-
+```
 ## Step 3: Update Database Connection Information
 Update the dbinfo.php file with your MySQL credentials:
-
+```SQL
 $host = 'localhost';
 $user = 'your_db_username';
 $pass = 'your_db_password';
 $database = 'night_club_db';
-
+```
 # Enhancements and Future Development
 
 ## Security Improvements:
