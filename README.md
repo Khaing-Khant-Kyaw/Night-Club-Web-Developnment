@@ -34,11 +34,11 @@ The Club Event Promotion Web App was developed to help manage club events, inclu
 
   -Contains the database connection information:
   
-'''php
-  $host = 'localhost';
-  $user = 'root';
-  $pass = 'password';
-  $database = 'night_club_db';
+```php
+$host = 'localhost';
+$user = 'root';
+$pass = 'password';
+$database = 'night_club_db';
 
 ## 2.SQL Files
 
