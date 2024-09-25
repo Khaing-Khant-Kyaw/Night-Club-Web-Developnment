@@ -33,7 +33,8 @@ The Club Event Promotion Web App was developed to help manage club events, inclu
 -dbinfo.php:
 
   -Contains the database connection information:
-
+  
+'''php
   $host = 'localhost';
   $user = 'root';
   $pass = 'password';
