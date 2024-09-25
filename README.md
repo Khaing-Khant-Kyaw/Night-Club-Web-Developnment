@@ -39,7 +39,7 @@ $host = 'localhost';
 $user = 'root';
 $pass = 'password';
 $database = 'night_club_db';
-
+'''
 ## 2.SQL Files
 
 -login_login.sql:
