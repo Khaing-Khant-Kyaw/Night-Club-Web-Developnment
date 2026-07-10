@@ -32,14 +32,7 @@ The Club Event Promotion Web App was developed to help manage club events, inclu
 
 -dbinfo.php:
 
-  -Contains the database connection information:
-  
-```php
-$host = 'localhost';
-$user = 'root';
-$pass = 'password';
-$database = 'night_club_db';
-```
+  -Loads database connection information from the shared `config.php` file. See the Configuration section below.
 ## 2.SQL Files
 
 -login_login.sql:
@@ -190,14 +183,20 @@ mysql -u username -p night_club_db < sql/login_login.sql
 mysql -u username -p night_club_db < sql/login_artist.sql
 mysql -u username -p night_club_db < sql/login_event.sql
 ```
-## Step 3: Update Database Connection Information
-Update the dbinfo.php file with your MySQL credentials:
-```SQL
-$host = 'localhost';
-$user = 'your_db_username';
-$pass = 'your_db_password';
-$database = 'night_club_db';
-```
+## Step 3: Configure Database Connection
+See the Configuration section below for how to set your MySQL credentials via environment variables.
+
+# Configuration
+Database credentials are loaded from environment variables via `php files/config.php`, with local development fallbacks. No credentials are hardcoded in the codebase.
+
+Set these environment variables on your server (or leave unset to use the local dev defaults):
+
+- `DB_HOST` — database host (default: `localhost`)
+- `DB_USER` — database username (default: `root`)
+- `DB_PASS` — database password (default: empty)
+- `DB_NAME` — database name (default: `login`)
+
+All three `dbinfo.php` files (`php files/dbinfo.php`, `php files/admin/dbinfo.php`, `php files/artist/dbinfo.php`) include the shared `config.php` so there is a single place to change database settings.
 # Enhancements and Future Development
 
 ## Security Improvements:
